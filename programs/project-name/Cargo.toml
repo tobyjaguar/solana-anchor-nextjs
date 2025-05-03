@@ -1,12 +1,12 @@
 [package]
-name = "voting-app-2"
+name = "project-name"
 version = "0.1.0"
 description = "Created with Anchor"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "voting_app_2"
+name = "project-name"
 
 [features]
 default = []
