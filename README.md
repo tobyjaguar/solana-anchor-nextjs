@@ -22,3 +22,14 @@
 - `yarn add tailwindcss @tailwindcss/postcss postcss`
 - add postcss.config.mjs
 - import global.css into the root layout
+
+### Clone and Run
+
+- clone the repo
+- change the project name at: 
+  - programs/project-name
+  - programs/src/lib.rs
+  - programs/Cargo.toml
+- run yarn
+- run anchor build
+
